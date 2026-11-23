@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2563eb"/><stop offset=".55" stop-color="#7c3aed"/><stop offset="1" stop-color="#06b6d4"/></linearGradient><radialGradient id="r"><stop stop-color="#253d67"/><stop offset="1" stop-color="#0b1221"/></radialGradient></defs>
+<rect width="600" height="600" rx="60" fill="url(#r)"/><circle cx="300" cy="245" r="170" fill="none" stroke="url(#g)" stroke-width="3" opacity=".8"/><circle cx="300" cy="245" r="145" fill="#14233b" stroke="#6da5ff" stroke-opacity=".35"/><text x="300" y="300" font-family="Arial,sans-serif" font-size="150" font-weight="700" fill="#f4f7ff" text-anchor="middle">S.</text><path d="M90 490h420" stroke="url(#g)" stroke-width="5" stroke-linecap="round"/><text x="300" y="545" font-family="Arial,sans-serif" font-size="26" letter-spacing="8" fill="#9fb6d8" text-anchor="middle">SIDDHARTH</text>
+</svg>
